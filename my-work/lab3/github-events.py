@@ -2,8 +2,8 @@
 
 
 
-export GITHUB_USER="RyanErm"
-source ~/.bashrc
+
+
 
 import os
 import json
